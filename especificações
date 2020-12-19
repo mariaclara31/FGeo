@@ -1,0 +1,26 @@
+Trabalho final
+
+No trabalho final da disciplina, iremos desenvolver um projeto de front-end de ponta-a-ponta, de forma com que conseguimos aplicar os conceitos e conteúdos desenvolvidos durante a disciplina. Desta forma, o trabalho final destina-se a desenvolver um projeto de tema livre cumpra os seguintes requisitos: 
+
+● O projeto deverá contemplar o uso de algum framework de javascript para desenvolvimento dos componentes, sendo eles: 
+○ Single Page Application (SPA) 
+○ Server-side rendering (SSR):
+
+React, Angular, Vue, Svelte ou Stencil; : Next, Nuxt ou Nest;
+
+● O projeto deverá conter, pelo menos, 5 componentes;
+
+● A aplicação deverá comunicar-se com alguma qualquer Exemplos: Reddit, Marvel, Google Maps, Diesease API;  API externa, exemplo:
+● A aplicação desenvolvida deverá utilizar alguma metodologia de escrita de CSS , que apresentada: BEM, OOCSS ou CSS-in-JS. Para BEM e OOCSS, poderá ser utilizado CSS puro ou algum pré-processador (SASS ou LESS);
+● A arquitetura deverá seguir o conceito de arquitetura modular (sem a necessidade de gerenciamento de estados);
+
+
+Entrega  ou grupo  de no máximo, 3 pessoas.
+
+A entrega do O trabalho deverá ser feito individual trabalho deverá contemplar um documento com os seguintes artefatos:
+
+● Justificativa da escolha de todos os instaláveis do projeto (frameworks e bibliotecas auxiliares);
+● Justificativa da escolha da abordagem utilizada (SPA ou SSR);
+● Justificativa da escolha da metodologia CSS;
+● Nome dos(as) completo integrantes do grupo;
+● Link para o repositório do projeto (Github, Bitbucket ou Gitlab) ou arquivo de extensão .zip  sem a pasta node_modules .
