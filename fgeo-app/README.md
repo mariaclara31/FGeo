@@ -1,5 +1,5 @@
 fGeo App
 
-## Feito por Maria CLara Lemos Monteiro
+## Feito por Maria Clara Lemos Monteiro
 
 $ npm start
