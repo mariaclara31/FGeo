@@ -28,7 +28,7 @@ const FindPage: React.FC<any> = ({ onTryToAuth }) => {
 	const [map, setMap] = useState(null);
 
 	const onLoad = useCallback(function callback(map) {
-		const bounds = new window.google.maps.LatLngBounds();
+		const bounds = new (window as any).google.maps.LatLngBounds();
 		map.fitBounds(bounds);
 		setMap(map);
 	}, []);
