@@ -1,10 +1,10 @@
-Trabalho final - Arquitetura de Front-End
+<h1>Trabalho final - Arquitetura de Front-End</h1>
 
-<b>FGeo</b>
+<h2><b>FGeo</b></h2>
 
-<b>Utilizar o comando npm install para instalar todos os packages</b>
+<b><blackquote>Utilizar o comando npm install para instalar todos os packages</blackquote></b>
 
-<b>E para rodar o projeto, utilizar o comando npm start</b>
+<b><blackquote>E para rodar o projeto, utilizar o comando npm start</blackquote></b>
 
 Descrição do trabalho
 
